@@ -1,3 +1,4 @@
 # Michael-CV
 
-this is a simple template developed in HTML css and javascript . 
+This is a simple template developed in HTML css and javascript . 
+See below : https://michael-mb.github.io/Michael-CV/
