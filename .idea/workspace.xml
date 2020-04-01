@@ -1,93 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cea4e00d-3edb-499e-a157-8078a47b9ee3" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="cea4e00d-3edb-499e-a157-8078a47b9ee3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/aos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/aos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cc-bg-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cc-bg-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/creative-cv-screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/creative-cv-screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/graphic-design-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/graphic-design-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/graphic-design-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/graphic-design-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/graphic-design-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/graphic-design-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/graphic-design-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/graphic-design-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/staticmap.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/staticmap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/aos.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/aos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/core/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/core/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/core/jquery.3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/core/jquery.3.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/core/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/core/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/now-ui-kit.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/now-ui-kit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/bootstrap-datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugins/bootstrap-datepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/bootstrap-switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugins/bootstrap-switch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.sharrre.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugins/jquery.sharrre.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/nouislider.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugins/nouislider.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1919048228">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="css" value="6" />
-          <entry key="html" value="1" />
-          <entry key="jpg" value="1" />
-          <entry key="js" value="1" />
-          <entry key="text" value="1" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="6" />
-          <entry key="HTML" value="1" />
-          <entry key="Image" value="1" />
-          <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="1613" />
-          <entry key="text" value="6" />
-          <entry key="txt" value="78" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="1613" />
-          <entry key="PLAIN_TEXT" value="84" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="187" column="225" selection-start-line="187" selection-start-column="225" selection-end-line="187" selection-end-column="225" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wichtig.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/aos.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -97,49 +39,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Wichtig.text" />
-        <option value="$PROJECT_DIR$/Wichtig.txt" />
-        <option value="$PROJECT_DIR$/styles/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Michael CV" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Michael CV" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Michael CV" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Michael CV" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1ZvvU9ziB2mdzbY9CnX5PCHQWkh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -152,18 +60,6 @@
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -180,82 +76,11 @@
       <workItem from="1567693981648" duration="1484000" />
       <workItem from="1580306234449" duration="612000" />
       <workItem from="1580391871213" duration="201000" />
+      <workItem from="1585732398044" duration="306000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10301000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5444" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/graphic-design-4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="187" column="225" selection-start-line="187" selection-start-column="225" selection-end-line="187" selection-end-column="225" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wichtig.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/aos.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
