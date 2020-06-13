@@ -54,10 +54,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
   <component name="ProjectId" id="1ZvvU9ziB2mdzbY9CnX5PCHQWkh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -66,6 +62,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
@@ -91,11 +88,19 @@
       <workItem from="1567693981648" duration="1484000" />
       <workItem from="1580306234449" duration="612000" />
       <workItem from="1580391871213" duration="201000" />
-      <workItem from="1585732398044" duration="546000" />
+      <workItem from="1585732398044" duration="920000" />
+      <workItem from="1585851288115" duration="48000" />
+      <workItem from="1592034495440" duration="958000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2468" y="174" key="FileChooserDialogImpl" timestamp="1585851328943">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="2468" y="174" key="FileChooserDialogImpl/1920.0.1536.864/0.0.1920.1080@1920.0.1536.864" timestamp="1585851328943" />
   </component>
 </project>
