@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cea4e00d-3edb-499e-a157-8078a47b9ee3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/._.DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/._.DS_Store" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/._index.html" beforeDir="false" afterPath="$PROJECT_DIR$/._index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Michael CV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Michael CV.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wichtig.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wichtig.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/._lebenslauf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/._lebenslauf.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/lebenslauf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/lebenslauf.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/aos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/aos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/._.DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/images/._.DS_Store" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/._michaell.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/._michaell.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/._pp.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/._pp.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cc-bg-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cc-bg-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/creative-cv-screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/creative-cv-screenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/graphic-design-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/graphic-design-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/graphic-design-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/graphic-design-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/graphic-design-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/graphic-design-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/graphic-design-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/graphic-design-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/michaell.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/michaell.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pp.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pp.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/staticmap.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/staticmap.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/aos.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/aos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/core/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/core/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/core/jquery.3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/core/jquery.3.2.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/core/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/core/popper.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/now-ui-kit.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/now-ui-kit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/bootstrap-datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugins/bootstrap-datepicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/bootstrap-switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugins/bootstrap-switch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.sharrre.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugins/jquery.sharrre.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/nouislider.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugins/nouislider.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +54,8 @@
       <workItem from="1585732398044" duration="920000" />
       <workItem from="1585851288115" duration="48000" />
       <workItem from="1592034495440" duration="2700000" />
-      <workItem from="1601535031212" duration="673000" />
+      <workItem from="1601535031212" duration="1456000" />
+      <workItem from="1601638269941" duration="11000" />
     </task>
     <servers />
   </component>
