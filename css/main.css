@@ -1404,7 +1404,7 @@ header .logo a {
 }
 
 .social li {
-	position: absolute;
+	position: absolute; 
 	display: inline-block;
 	left: 50%;
 	transform: translateX(-50%);
