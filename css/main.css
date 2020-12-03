@@ -1396,6 +1396,25 @@ header .logo a {
 	left: 1.2rem;
 }
 
+.social{
+	display: block;
+	position: relative;
+	width: 100%;
+	font-size: 3.3rem;
+}
+
+.social li {
+	position: absolute;
+	display: inline-block;
+	left: 50%;
+	transform: translateX(-50%);
+	margin-top: 50px;
+}
+
+
+.social li a{
+	color: #0b0b0b;
+}
 .intro-social {
 	display: block;
 	position: absolute;
@@ -1414,7 +1433,7 @@ header .logo a {
 .intro-social li a, .intro-social li a:visited {
 	color: #FFFFFF;
 }
-.intro-social li a:hover, .intro-social li a:focus {
+.intro-social li a:hover,.social li a:hover, .social li a:focus, .intro-social li a:focus {
 	color: #cc005f;
 }
 
