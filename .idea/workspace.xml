@@ -136,7 +136,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../claudia" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/pomato" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -177,7 +177,9 @@
       <workItem from="1606968168159" duration="1203000" />
       <workItem from="1607003658305" duration="259000" />
       <workItem from="1607003979131" duration="13000" />
-      <workItem from="1607936410027" duration="78000" />
+      <workItem from="1607936410027" duration="356000" />
+      <workItem from="1607940009770" duration="2000" />
+      <workItem from="1608242431955" duration="25000" />
     </task>
     <servers />
   </component>
@@ -185,9 +187,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1607003990225">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="592" y="236" key="FileChooserDialogImpl" timestamp="1608242455490">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="592" y="236" key="FileChooserDialogImpl/0.0.1536.864/-1920.96.1920.1200@0.0.1536.864" timestamp="1608242455490" />
     <state x="740" y="295" key="FileChooserDialogImpl/1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1607003990225" />
     <state x="277" y="75" key="SettingsEditor" timestamp="1601535704024">
       <screen x="0" y="0" width="1536" height="864" />
