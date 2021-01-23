@@ -131,7 +131,6 @@
   <component name="ProjectId" id="1ZvvU9ziB2mdzbY9CnX5PCHQWkh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -146,6 +145,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -153,6 +153,7 @@
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -180,11 +181,13 @@
       <workItem from="1607936410027" duration="356000" />
       <workItem from="1607940009770" duration="2000" />
       <workItem from="1608242431955" duration="25000" />
+      <workItem from="1610052544542" duration="90000" />
+      <workItem from="1610444042252" duration="143000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="592" y="236" key="FileChooserDialogImpl" timestamp="1608242455490">
