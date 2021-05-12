@@ -1198,6 +1198,7 @@ header .logo a {
 	height: auto;
 	clear: both;
 	display: none;
+	border-radius: 30px;
 }
 .main-navigation > li {
 	display: block;
