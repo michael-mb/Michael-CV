@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cea4e00d-3edb-499e-a157-8078a47b9ee3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/portfolio/blog.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/._.DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/._.DS_Store" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/._index.html" beforeDir="false" afterPath="$PROJECT_DIR$/._index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Michael CV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Michael CV.iml" afterDir="false" />
@@ -73,9 +72,6 @@
       <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.woff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fonts/poppins/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/._michaell.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/._pp.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/cc-bg-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cc-bg-1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/creative-cv-screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/creative-cv-screenshot.png" afterDir="false" />
@@ -86,6 +82,7 @@
       <change beforePath="$PROJECT_DIR$/images/intro-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/intro-bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/michaell.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/michaell.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/blog.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/blog.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/portfolio/chat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/chat.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/portfolio/flappy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/flappy.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/portfolio/management.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/management.jpg" afterDir="false" />
@@ -188,7 +185,7 @@
       <workItem from="1608242431955" duration="25000" />
       <workItem from="1610052544542" duration="90000" />
       <workItem from="1610444042252" duration="143000" />
-      <workItem from="1618482158168" duration="289000" />
+      <workItem from="1618482158168" duration="445000" />
     </task>
     <servers />
   </component>
