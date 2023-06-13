@@ -1,15 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cea4e00d-3edb-499e-a157-8078a47b9ee3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/portfolio/yc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/aos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/micons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/vendor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bold-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bold-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bolditalic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bolditalic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bolditalic-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-bolditalic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-italic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-italic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-italic-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-italic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-regular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-regular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-regular-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/lora-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lora/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cc-bg-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/creative-cv-screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/graphic-design-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/graphic-design-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/graphic-design-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/graphic-design-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/intro-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/michaell.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/chat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/clone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/flappy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/management.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/mario.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-beetle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-clouds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-liberty.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-lighthouse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-salad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-shutterbug.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/photo-1454165804606-c3d57bc86b40.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/reparatur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/videoshop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/yc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/profile-pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sample-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/staticmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/sendEmail.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/aos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/core/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/core/jquery.3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/core/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-2.1.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/now-ui-kit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/pace.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/bootstrap-datepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/bootstrap-switch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.sharrre.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/nouislider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/lebenslauf.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,8 +145,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/michael/Documents/dev/web/Michael-CV/images/portfolio",
+    "last_opened_file_path": "/Users/michael/Documents/dev/web-dev/Michael-CV",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -73,6 +202,7 @@
       <workItem from="1618482158168" duration="445000" />
       <workItem from="1645434766279" duration="418000" />
       <workItem from="1665747320038" duration="281000" />
+      <workItem from="1686635571267" duration="576000" />
     </task>
     <servers />
   </component>
